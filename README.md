@@ -1,11 +1,14 @@
 # Treasuregram
 This is a basic django application where you can add your own personal treasures through a python object and django ORM.
-![](media/b.jpg) 
-![](media/c.jpg) 
-![](media/a.jpg) 
 
-To access the admin site:
-Username: admin
-Password: testingdjango
+![](media/c.jpg) 
+The log in page for treasuregram.
+
+![](media/b.jpg) 
+The main home page where all treasures are seen.
+
+![](media/a.jpg) 
+On this page you can add or edit the items added to your app.
+
 
 
